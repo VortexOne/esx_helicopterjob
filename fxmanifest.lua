@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Vortex'
-description 'ESX Helicopter Job'
+description 'Helicopter Route für DNRP'
 version 'legacy'
 
 client_scripts{

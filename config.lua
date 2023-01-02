@@ -19,7 +19,7 @@ If you don't have money for okokNotify just replace the exports in the client an
 ]]--
 
 Config = {}
-Config.Locale = 'de'
+Config.Locale = 'en'
 
 Config.useEsxLegacy = true -- Are you running ESX Legacy on your server? If yes, leave on true, if not or you are not sure, turn to false.
 -- If you have it on false and get a warning similar to this when starting the script: [WARNING] esx_helicopterjob used esx:getSharedObject, this method is deprecated and should not be used, On 30/11/2022 esx:getSharedObject will come to EOL and be fully removed!

@@ -5,6 +5,7 @@ Locales['de'] = {
     ['endJobNotify'] = 'Du hast den Helikopter Job beendet.',
 
     ['startJob'] = 'Drücke ~INPUT_CONTEXT~ um den Helikopter Job zu starten',
+    ['areaOccupied'] = 'Etwas ist im Weg! Kann den Heli nicht spawnen...',
     ['endJob'] = 'Drücke ~INPUT_CONTEXT~ um den Job zu beenden.',
     ['flyOrReturnToHangar'] = 'Fliege zum ~y~Abwurfort~s~ und werfe die ~y~Ware~s~ ab oder kehre zurück zum Helipad.',
     ['dropPrompt'] = 'Drücke ~INPUT_CONTEXT~ um die Ware abzuwerfen.',
